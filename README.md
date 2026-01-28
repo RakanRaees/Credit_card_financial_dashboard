@@ -4,7 +4,8 @@ Developed an interactive dashboard using transaction and customer data from a sq
 Streamlined data processing & analysis to monitor key performance metrics and trends.
 
 # Project Insights-week 53(31st Dec)
-# Week on week Changes:-
+ Week on week Changes:-
+ 
 Revenue increased by 28.8%,
 Total Transaction Amt Increased by 262331, 
 Customer Count Increased by 21.
